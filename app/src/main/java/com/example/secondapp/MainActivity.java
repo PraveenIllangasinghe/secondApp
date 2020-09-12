@@ -7,6 +7,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     private int a2 = 4;
+
     private double b1 = 5.5;
 
 
