@@ -4,16 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class secondActivity extends AppCompatActivity {
-
-    private String name = "John";
-    private int age = 25;
-    private int id = 9;
-    private String Name = "Ben";
+public class fourthActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_second);
+        setContentView(R.layout.activity_fourth);
     }
 }
