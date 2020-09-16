@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class thirdActivity extends AppCompatActivity {
 
-    private int tot = 10;
+    private int tot = 100;
     private boolean s1 = true;
 
     @Override
