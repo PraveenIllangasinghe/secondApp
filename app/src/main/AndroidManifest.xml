@@ -11,7 +11,7 @@
         android:theme="@style/AppTheme">
         <activity android:name=".ishini.fifth_activity"></activity>
         <activity android:name=".fourthActivity" />
-        <activity android:name=".thirdActivity" />
+        <activity android:name=".sixthActivity" />
         <activity android:name=".secondActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
