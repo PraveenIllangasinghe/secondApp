@@ -6,9 +6,9 @@ import android.os.Bundle;
 
 public class secondActivity extends AppCompatActivity {
 
-    private String name = "John";
+    private String name = "Tom";
     private int age = 25;
-    private int id = 9;
+    private int id = 20;
     private String Name = "Ben";
 
     @Override
