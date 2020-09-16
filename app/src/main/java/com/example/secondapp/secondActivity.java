@@ -9,6 +9,7 @@ public class secondActivity extends AppCompatActivity {
     private int age = 25;
     private int id = 20;
     private String Name = "Ben";
+    private int a = 30;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
