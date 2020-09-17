@@ -4,17 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class secondActivity extends AppCompatActivity {
-
-    private int age = 25;
-
-    private String Name = "Harry";
-    private int a = 30;
-    private int t = 4;
+public class PVnew extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_second);
+        setContentView(R.layout.activity_p_vnew);
     }
 }
