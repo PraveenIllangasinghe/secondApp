@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
         <activity android:name=".pkg1.ishNew"></activity>
+        <activity android:name=".pkg2.thiNew"></activity>
+
         <activity android:name=".Thishi.SeventhActivity" />
         <activity android:name=".ishini.fifth_activity" />
         <activity android:name=".fourthActivity" />
